@@ -7,7 +7,7 @@
 
 - 🌱 "Excited to be learning computer science with CS50"
 
-- ⚡ Fun fact **Where tech goes to play**
+- ⚡ Together, we code the future
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
