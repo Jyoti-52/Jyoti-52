@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Jyoti Yadav  
+# 💫 Hi 👋, I'm Jyoti 
 Aspiring Software Developer | Passionate About Building Real-World Projects
 
 📩 **Email Me:** jyoticreativecoder@gmail.com for collaboration, internships, or tech chats 😊
